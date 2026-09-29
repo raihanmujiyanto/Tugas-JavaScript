@@ -203,11 +203,11 @@ console.log("Tier Member :", TIER_PELANGGAN_C);
 // Buat variabel Array bernama "menuRekomendasi" yang berisi minimal 5 nama menu kopi/makanan.
 
 let MENU_REKOMENDASI = [
-    "Caramel Macchiato",
-    "Kopi Susu Gula Aren",
-    "Croissant Butter Keju",
-    "Matcha Cream Latte",
-    "Cinnamon Roll Hangat"
+    "Croissant Chololate",
+    "Brown sugar coffe",
+    "Onions Rings",
+    "Banana Cream Latte",
+    "Mix Platter"
 ];
 
 // TODO 6B:

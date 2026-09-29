@@ -89,7 +89,7 @@ if (NAMA_PELANGGAN) {
 // 2. Buat variabel "totalPoin" yang menjumlahkan ketiga variabel poin di atas.
 // 3. Cetak rincian perolehan poin dan totalPoin ke Console menggunakan console.log().
 
-let POIN_KOPI = 50;
+let POIN_KOPI = 45;
 let POIN_MAKANAN = 35;
 let POIN_MERCHANDISE = 20;
 
